@@ -24,7 +24,7 @@ Discord: `null#0999` \
 <p class="codeblock-label">Email</p>
 
 ```python
-#!/usr/env/python3
+#!/usr/bin/env python3
 from base64 import standard_b64decode
 print(standard_b64decode(b'bmhhbW1vbmQxMjlAZ21haWwuY29t'))
 ```
