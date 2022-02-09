@@ -35,8 +35,7 @@ Primary
 
 *C++ | C | Python | Wolfram Language*
 
-Able to learn just about any language on the fly.\
-I've played with a lot of them, from varieties of assembler to scripting in `zsh`.
+Able to learn just about any language on demand.
 
 ---
 ### Tools:
