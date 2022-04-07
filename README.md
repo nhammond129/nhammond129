@@ -1,6 +1,5 @@
 ## Hi, I'm Nicholas Hammond
 
-Text Editors: [`nvim`](https://github.com/neovim/neovim), [`vscode`](https://github.com/microsoft/vscode) <br/>
 Keyboard: [Sofle v2](https://github.com/josefadamcik/SofleKeyboard)
 with [Kailh BOX Navy](https://switches.mx/kailh-box-navy) switches \
 Pronouns: He/Him
