@@ -1,8 +1,7 @@
 ## Hi, I'm Nicholas Hammond
 
 Keyboard: [Sofle v2](https://github.com/josefadamcik/SofleKeyboard)
-with [Kailh BOX Navy](https://switches.mx/kailh-box-navy) switches \
-Pronouns: He/Him
+with [Kailh BOX Navy](https://switches.mx/kailh-box-navy) switches
 
 ---
 
