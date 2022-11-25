@@ -2,6 +2,7 @@
 
 Keyboard: [Sofle v2](https://github.com/josefadamcik/SofleKeyboard)
 with [Kailh BOX Navy](https://switches.mx/kailh-box-navy) switches
+(Also have a low-profile sofle with jades)
 
 ---
 
