@@ -13,9 +13,6 @@ Feel free to contact me about anything that might interest me.\
 I'm slow at checking my personal email, so if you want a within-a-day response, ping me on Discord.
 
 ---
-Currently working as a software developer at Wolfram Research.
-
----
 ### Contact me:
 Discord: `null#0999` \
 [linkedin][linkedin]
