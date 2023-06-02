@@ -7,7 +7,7 @@ with [Kailh BOX Navy](https://switches.mx/kailh-box-navy) switches
 ---
 
 I'm a maths enthusiast and software developer. \
-I don't have much industry experience, but I'm comfortable hacking around with anything and everything.
+I don't have much industry experience[^1], but I'm comfortable hacking around with anything and everything.
 
 Feel free to contact me about anything that might interest me.\
 I'm slow at checking my personal email, so if you want a within-a-day response, ping me on Discord.
@@ -37,7 +37,11 @@ Able to learn just about any language on demand.
 ### Tools:
 
 *Mathematica | git | bash | \*nix | gdb | ... and so on*
-	
+
+---
+
+[^1]: Worked for Wolfram Research on the Algs. R&D team (C++ and WL development) _Apr. 2020 - Nov. 2022_
+
 [//]: # (Some Defines)
 
 [linkedin]: www.linkedin.com/in/nicholas-hammond-31621a186
