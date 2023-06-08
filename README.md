@@ -44,4 +44,4 @@ Able to learn just about any language on demand.
 
 [//]: # (Some Defines)
 
-[linkedin]: www.linkedin.com/in/nicholas-hammond-31621a186
+[linkedin]: https://www.linkedin.com/in/nicholas-hammond-31621a186/
