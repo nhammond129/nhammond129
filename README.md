@@ -14,8 +14,7 @@ I'm slow at checking my personal email, so if you want a within-a-day response, 
 
 ---
 ### Contact me:
-Discord: ~~`null#0999`~~ `nullspeaker` \
-[linkedin][linkedin]
+Discord: ~~`null#0999`~~ `nullspeaker`
 
 <p class="codeblock-label">Email</p>
 
@@ -41,7 +40,3 @@ Able to learn just about any language on demand.
 ---
 
 [^1]: Worked for Wolfram Research on the Algs. R&D team (C++ and WL development) _Apr. 2020 - Nov. 2022_
-
-[//]: # (Some Defines)
-
-[linkedin]: https://www.linkedin.com/in/nicholas-hammond-31621a186/
