@@ -14,7 +14,7 @@ I'm slow at checking my personal email, so if you want a within-a-day response, 
 
 ---
 ### Contact me:
-Discord: `null#0999` \
+Discord: ~~`null#0999`~~ `nullspeaker` \
 [linkedin][linkedin]
 
 <p class="codeblock-label">Email</p>
