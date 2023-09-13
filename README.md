@@ -1,13 +1,13 @@
-## Hi, I'm Nicholas Hammond
-
-Keyboard: [Sofle v2](https://github.com/josefadamcik/SofleKeyboard)
-with [Kailh BOX Navy](https://switches.mx/kailh-box-navy) switches
-(Also have a low-profile sofle with jades)
+## Hi, I'm Nullspeaker.
+__Government Name:__ Nicholas Hammond\
+__Preferred Name:__  Auralyn (or just Aura for short)
 
 ---
 
 I'm a maths enthusiast and software developer. \
 I don't have much industry experience[^1], but I'm comfortable hacking around with anything and everything.
+
+Currently doing freelance work!
 
 Feel free to contact me about anything that might interest me.\
 I'm slow at checking my personal email, so if you want a within-a-day response, ping me on Discord.
@@ -26,11 +26,7 @@ print(standard_b64decode(b'bmhhbW1vbmQxMjlAZ21haWwuY29t'))
 
 ---
 ### Languages
-Primary
-
-*C++ | C | Python | Wolfram Language*
-
-Able to learn just about any language on demand.
+Best-known are C++, C, Python, and Wolfram Language. I peck at other languages all the time and don't have much trouble swapping around.
 
 ---
 ### Tools:
