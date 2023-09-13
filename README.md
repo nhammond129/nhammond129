@@ -12,6 +12,8 @@ Currently doing freelance work!
 Feel free to contact me about anything that might interest me.\
 I'm slow at checking my personal email, so if you want a within-a-day response, ping me on Discord.
 
+If you want to support my projects, thank me for some help, or just want me to eat more cheese, I'm accepting financial support via [ko-fi](https://ko-fi.com/nullspeaker) and [paypal](paypal.me/nullspeaker). :)
+
 ---
 ### Contact me:
 Discord: ~~`null#0999`~~ `nullspeaker`
